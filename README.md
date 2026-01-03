@@ -37,4 +37,4 @@ Estou comprometido com o aprendizado contínuo, focado em aprimorar minhas habil
 | **Email** | `eduardoberlink@gmail.com` |
 | **LinkedIn** | [Eduardo Miranda Berlink](https://linkedin.com/in/eduardo-miranda-34a036335) |
 | **Localização** | Vitória da Conquista, Bahia, Brasil |
-| **Idiomas** | Português (Nativo) e Inglês (Intermediário-Avançado - curso concluído) |
+| **Idiomas** | Português (Nativo) e Inglês (Avançado - curso concluído) |
