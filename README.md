@@ -18,7 +18,7 @@ Estou comprometido com o aprendizado contínuo, focado em aprimorar minhas habil
 | :--- | :--- | :--- |
 | **Linguagens** | Java, Python, Dart | JavaScript, HTML, CSS |
 | **Banco de Dados** | SQLite, MySQL, FireStore | MongoDB |
-| **Frameworks** | - | fastAPI, Flutter |
+| **Frameworks** | fastAPI, Flutter  | - |
 | **Ferramentas e Conceitos** | Git (Controle de Versão), Programação Orientada a Objetos, Metodologia Ágil, Power BI, Postman |
 
 *(**Dica:** Você pode substituir a tabela acima por badges de tecnologias para um visual mais dinâmico!)*
